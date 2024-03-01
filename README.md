@@ -1,2 +1,0 @@
-# IntConf
-// Conference Website
